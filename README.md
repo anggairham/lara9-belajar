@@ -137,3 +137,11 @@ jobs:
           name: console
           path: tests/Browser/console
 ```
+
+### Tutorial
+* https://techvblogs.com/blog/how-to-install-vue-3-in-laravel-9-with-vite
+* https://www.youtube.com/watch?v=2oTiHICozTk Laravel 9 dan Vue JS 3 Vue Router
+* Playlist Laravel Vue JS Indonesia https://www.youtube.com/watch?v=ddqXmUZk07I&list=PL9At9z2rvOC99EJDuOcPVJnXJtur8cF4R&index=8
+
+### Probelm Fix
+* Update for Vue 3 onward: NotFound with Regex https://stackoverflow.com/questions/40193634/vue-router-redirect-on-page-not-found-404
